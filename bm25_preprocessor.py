@@ -1,6 +1,5 @@
-# BM25 Text Preprocessing Module
-# Handles tokenization, normalization, and filtering for BM25 keyword search
-# Provides consistent preprocessing pipeline for both indexing and query processing
+# BM25 Text Preprocessing
+# Preprocessing pipeline for BM25 keyword search -- converts user query text into normalized tokens for retrieval of relevant documents.
 
 import re
 from typing import List, Set, Optional
