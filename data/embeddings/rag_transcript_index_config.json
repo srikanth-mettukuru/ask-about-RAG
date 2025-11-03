@@ -1,0 +1,7 @@
+{
+  "dimension": 1536,
+  "similarity_metric": "cosine",
+  "index_type": "IndexFlatIP",
+  "total_vectors": 83,
+  "created_timestamp": 1754283251.5646956
+}
