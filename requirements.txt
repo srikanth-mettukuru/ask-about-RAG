@@ -1,0 +1,28 @@
+# RAG System Requirements
+# Dependencies for both Semantic Search (FAISS) and BM25 Keyword Search
+
+# Core Dependencies
+numpy>=1.26.0
+python-dotenv==1.1.1
+
+# OpenAI API for Embeddings
+openai==1.98.0
+tiktoken>=0.5.0
+
+# FAISS for Vector Search (Semantic Search)
+faiss-cpu==1.11.0.post1
+
+# NLTK for Advanced Text Processing (BM25)
+nltk==3.9.1
+click==8.2.1
+joblib==1.5.1
+tqdm==4.67.1
+
+# Additional Text Processing
+regex==2025.7.34
+
+# Supporting Dependencies
+colorama==0.4.6
+
+# Streamlit Frontend
+streamlit>=1.29.0,<2.0
