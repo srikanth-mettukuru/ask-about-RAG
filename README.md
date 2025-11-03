@@ -49,6 +49,6 @@ A simple **Retrieval-Augmented Generation (RAG)** system that answers questions 
 ## Requirements
 
 - Python 3.11+
-- OpenAI API key (or other LLM API key)
+- OpenAI API key
 - Create `.env` file from `.env.example` template
 - Dependencies in `requirements.txt`
