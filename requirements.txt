@@ -26,3 +26,11 @@ colorama==0.4.6
 
 # Streamlit Frontend
 streamlit>=1.29.0,<2.0
+
+# TruLens core
+trulens==2.7.2
+
+# TruLens provider
+trulens-providers-openai==2.7.2
+
+trulens-dashboard
